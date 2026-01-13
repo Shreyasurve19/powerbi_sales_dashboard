@@ -101,6 +101,11 @@ The outcome is a user-friendly dashboard that supports quick decision-making and
 
 🖼️ Dashboard Preview
 
+dashboard_overview.png
+
+dashboard_interaction1.png
+
+dashboard_interaction2.png
 
 
 📌 How to Use :
