@@ -8,6 +8,7 @@ Interactive Power BI dashboard analyzing sales performance across regions, categ
 This project is a professional Power BI dashboard designed to analyze sales performance across different regions, categories, and time periods.
 The dashboard focuses on clarity, interactivity, and actionable business insights, using clean visuals and well-defined metrics.
 
+
 🛠️ Tools & Technologies :
 
 Power BI Desktop
@@ -15,6 +16,7 @@ Power BI Desktop
 DAX (Data Analysis Expressions)
 
 Data modeling and interactive visual design
+
 
 📂 Dataset :
 
@@ -32,6 +34,7 @@ Sales
 
 Order ID
 
+
 📐 Dashboard Features :
 
 Card visuals for key metrics:
@@ -42,6 +45,7 @@ Total Orders (Distinct Count)
 
 Average Sales
 
+
 Interactive slicers for:
 
 Category
@@ -49,6 +53,7 @@ Category
 Region
 
 Order Date
+
 
 Visual analysis using:
 
@@ -58,6 +63,7 @@ Line chart (Year-wise sales trend)
 
 Clean layout with consistent formatting and borders
 
+
 📊 Key DAX Measures :
 
 Total Sales = SUM(superstore[Sales])
@@ -65,6 +71,7 @@ Total Sales = SUM(superstore[Sales])
 Total Orders = DISTINCTCOUNT(superstore[Order.ID])
 
 Average Sales = AVERAGE(superstore[Sales])
+
 
 🔍 Key Business Insights :
 
@@ -78,6 +85,7 @@ Sales demonstrated a steady year-on-year growth trend, peaking in later years
 
 Category and regional slicers revealed performance variations across different segments
 
+
 🎯 Objective & Outcome :
 
 The goal of this project was to:
@@ -90,7 +98,9 @@ Apply best practices in Power BI visual design and DAX calculations
 
 The outcome is a user-friendly dashboard that supports quick decision-making and high-level performance analysis.
 
+
 🖼️ Dashboard Preview
+
 
 
 📌 How to Use :
@@ -100,6 +110,7 @@ Download the .pbix file
 Open using Power BI Desktop
 
 Use slicers to explore insights dynamically
+
 
 👤 Author 
 
